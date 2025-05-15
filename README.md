@@ -7,7 +7,7 @@ Devops task-3
    - Terraform is used to automate and manage infrastructure (in this case, Docker resources) using code.
 
 
-     2. Created a Terraform file named main.tf
+2. Created a Terraform file named main.tf
 
    - Specified the use of the Docker provider in Terraform, which enables Terraform to interact with the local Docker engine.
 
